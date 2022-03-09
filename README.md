@@ -13,8 +13,9 @@ __dependencies__:
 
 2. __in terminal execute__ 
  ```
-   python3 scan.py exemple.com
-   python scan.py exemple.com
+   python3 scan.py exemple.com or use ip in place of "example.com"
+   
+   > python scan.py exemple.com
    
    • exemple:
    Status: 11 => port 1

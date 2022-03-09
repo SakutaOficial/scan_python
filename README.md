@@ -13,9 +13,12 @@ __dependencies__:
 
 2. __in terminal execute__ 
  ```
-   python3 scan.py exemple.com or use ip in place of "example.com"
+   python3 scan.py + name url without containing http://exemple.com or https://exemple.com or use ip in place of "example.com"
    
-   > python scan.py exemple.com
+   > use so: 
+   python scan.py exemple.com 
+   or
+   python scan.py 127.0.0.1
    
    • exemple:
    Status: 11 => port 1

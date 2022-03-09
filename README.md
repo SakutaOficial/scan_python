@@ -11,10 +11,10 @@ __dependencies__:
    wget https://github.com/norahoficial/scan_python && pip install -r requirements.txt
    ``` 
 
-2. __in terminal execute__ 
+2. __in terminal execute__  
+ 
+3. __python3 scan.py + name url without containing http://exemple.com or https://exemple.com or use ip in place of "example.com"__
  ```
-   python3 scan.py + name url without containing http://exemple.com or https://exemple.com or use ip in place of "example.com"
-   
    > use so: 
    python scan.py exemple.com 
    or

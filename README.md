@@ -9,4 +9,7 @@ __dependencies__:
 1. __use__
   ```
    wget https://github.com/masaworks/scan_python && pip install -r requirements.txt
-   ```
+   ``` 
+
+#### Como diria um antigo mestre:
+> Que a força esteja com você.

@@ -8,7 +8,7 @@ __requireds__: python version >= 3.9
 __dependencies__:
 1. __use__
   ```
-   wget https://github.com/masaworks/scan_python && pip install -r requirements.txt
+   wget https://github.com/norahoficial/scan_python && pip install -r requirements.txt
    ``` 
 
 #### Como diria um antigo mestre:

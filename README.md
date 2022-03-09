@@ -6,5 +6,7 @@ need to install some dependencies
 
 requireds: python version >= 3.9 
 dependencies:
-1. use 
-   wget https://github.com/masaworks/scan_python && pip install -r requirements.txt
+1. __use__
+  ```
+   - wget https://github.com/masaworks/scan_python && pip install -r requirements.txt
+   ```
